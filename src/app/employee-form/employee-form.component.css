@@ -1,0 +1,15 @@
+.form-group {
+    margin: 0 20%;
+}
+
+form {
+border: groove blue 5px;
+width: 40%;
+padding-bottom: 3px;
+left: 55%;
+top: 60%;
+margin-left: -25%;
+position: absolute;
+margin-top: -25%;
+background-color: bisque;
+}
